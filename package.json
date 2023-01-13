@@ -1,6 +1,6 @@
 {
-  "name": "my-webpack-project",
-  "version": "1.0.0",
+  "name": "@orianasalcedo/fantasticeureka",
+  "version": "1.0.1",
   "description": "My webpack project",
   "main": "index.js",
   "scripts": {
@@ -33,5 +33,13 @@
     "testing",
     "javascript",
     "typescript"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orianasalcedob/fantastic-eureka.git"
+  },
+  "bugs": {
+    "url": "https://github.com/orianasalcedob/fantastic-eureka/issues"
+  },
+  "homepage": "https://github.com/orianasalcedob/fantastic-eureka#readme"
 }
